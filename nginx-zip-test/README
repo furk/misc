@@ -1,0 +1,9 @@
+How to test the problem.
+
+You should have nginx installed w/ mod_zip enabled and perl module Digest::CRC to use ./make-files.sh
+
+make files - make test files
+make strace - run nginx through strace
+
+see the files for details
+
